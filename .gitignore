@@ -1,0 +1,13 @@
+# Bỏ qua các file thực thi (không có phần mở rộng)
+Bai1
+Bai2
+Bai3
+bai4
+bai5
+main
+math_utils
+
+# Bỏ qua file cấu hình IDE và file tạm
+.vscode/
+*.o
+*.out
